@@ -2,7 +2,7 @@
 
 **Aspiring Software Developer | Cloud Computing Enthusiast | Full-Stack Developer**
 
-Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student with specialization in Cloud Computing & Virtualization, passionate about building scalable applications and exploring modern technologies.
+Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student with specialization in Cloud Computing & Virtualization, passionate about building scalable applications and exploring emerging technologies.
 
 ---
 
@@ -57,6 +57,20 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 
 ---
 
+## 📊 Skills Proficiency
+
+| Category | Proficiency | Skills |
+|----------|-------------|--------|
+| **Backend Development** | ████████░ 80% | Java, Spring Boot, Hibernate, JPA, Maven |
+| **Frontend Development** | ███████░░ 70% | React, HTML5, CSS3, JavaScript, Tailwind CSS |
+| **Database Management** | ███████░░ 75% | MySQL, MongoDB, SQL Queries |
+| **Cloud & DevOps** | ██████░░░ 60% | AWS, Cloud Architecture, Virtualization |
+| **UI/UX Design** | ██████░░░ 65% | Figma, Adobe XD, Responsive Design |
+| **Version Control** | █████████░ 90% | Git, GitHub, Collaboration |
+| **Problem Solving** | █████████░ 85% | DSA, Algorithm Optimization |
+
+---
+
 ## 💼 Experience
 
 ### **Capgemini — Software Development Trainee**
@@ -84,7 +98,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 - Integrated backend database with Hibernate ORM for efficient query handling
 - Built with Maven for dependency management and project build
 
-**Repository:** [View Project](#)
+**Repository:** [View Project](https://github.com/linkanushka/Hospital-Management-System)
 
 ---
 
@@ -95,7 +109,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 - Designed with Figma before development
 - Focus on user experience and responsive design
 
-**Repository:** [View Project](#)
+**Repository:** [View Project](https://github.com/linkanushka/netmec-ott)
 
 ---
 
@@ -105,7 +119,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 - Dashboard with attendance summaries and report generation
 - Full CRUD operations and database integration
 
-**Repository:** [View Project](#)
+**Repository:** [View Project](https://github.com/linkanushka)
 
 ---
 
@@ -140,14 +154,6 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linkanushka&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linkanushka&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Anushka-Singh11?utm_source=chatgpt.com)
@@ -163,7 +169,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 ---
 
 ### 📈 Fun Fact
-I'm constantly exploring new technologies and love turning ideas into reality through code! When I'm not coding, you'll find me learning about cloud infrastructure, designing intuitive UX experiences with Figma, or exploring virtualization technologies.
+I'm constantly exploring new technologies and love turning ideas into reality through code! When I'm not coding, you'll find me learning about cloud infrastructure, designing intuitive UX experiences, and contributing to tech communities.
 
 **Let's collaborate and build something amazing together!** 🚀
 
