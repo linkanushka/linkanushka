@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE Student** at Galgotias University (2022–2026) | CGPA: 7.29
+- 🎓 **B.Tech CSE Student** at Galgotias University (2022–2026) | CGPA: 8.36
 - 💼 **Software Development Trainee** at Capgemini (completed 3-month training program)
 - 🌐 **Full-Stack & Frontend Developer** with hands-on project experience
 - ☁️ Specializing in **Cloud Computing & Virtualization**
